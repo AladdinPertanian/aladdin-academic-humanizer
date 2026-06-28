@@ -1,0 +1,160 @@
+Copyright (c) 2026 Dr. Aladdin Ali - Founder of Aladdin Pertanian Internasional - dr.alaa@aladdin.my.id. All Rights Reserved.
+
+ALADDIN ACADEMIC HUMANIZER — ACADEMIC VOICE & INTEGRITY LAYER (SKILL EDITION)
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright © 2026 Dr. Aladdin Ali / Aladdin Pertanian Internasional.
+All rights reserved.
+
+1. OWNERSHIP
+   This Skill — including SKILL.md, every reference and example file, the
+   academic-integrity patterns ACA-01..ACA-10, the three-channel output model
+   (Language-Improved Text, Scholarly Advisory Report, Author-Approved Scholarly
+   Revision) and the revision-log design, the Input Contract (context + consent),
+   the Academic Integrity Controls AIP-1..6 and invariants INV-A1..A10, the
+   register/level/programme-type calibration, and the ten-language coverage design
+   — is the proprietary work of Dr. Aladdin Ali / Aladdin Pertanian Internasional
+   ("the Owner").
+
+2. GRANT
+   No license, express or implied, is granted to any third party to use, copy,
+   modify, distribute, sublicense, sell, or create derivative works from this
+   Skill, in whole or in part, except under a separate written agreement signed
+   by the Owner. The Owner retains all rights not expressly granted.
+
+3. PERMITTED USE BY THE OWNER
+   The Owner may install, run, upload, publish, and distribute this Skill on any
+   platform (including Claude / Anthropic cloud Skills) under the Owner's own
+   account and branding.
+
+4. THIRD-PARTY COMPONENTS
+   The base de-AI pattern set (HUM-01..HUM-33) is derived from the open-source
+   "humanizer" skill by Siqi Chen (https://github.com/blader/humanizer),
+   version 2.8.0, licensed under the MIT License (Copyright (c) 2025 Siqi Chen);
+   this covers the project's §§1–30 and its patterns 31–33. That upstream skill's
+   base taxonomy (§§1–30) is itself based on Wikipedia's "Signs of AI writing"
+   (CC BY-SA 4.0); the project's patterns 31–33 are Siqi Chen's own MIT additions,
+   not drawn from the Wikipedia article. The MIT license and the CC BY-SA upstream
+   credit are reproduced in the NOTICE file and govern those base patterns.
+
+   The Owner's original contributions — ACA-01..10, the three-channel model and
+   revision-log design, the Input Contract, the governance and invariants, the
+   register/level calibration, the language-coverage design, and the Skill
+   orchestration — are proprietary.
+
+   CC BY-SA (LEGAL-OPEN): whether the Creative Commons share-alike obligation of
+   the upstream Wikipedia taxonomy reaches any academic pattern is a legal
+   question that is NOT asserted here as fact. Pending legal confirmation before
+   release, the Wikipedia-derived base taxonomy (HUM-01..30) is kept isolated, and
+   HUM-31..33 (Siqi Chen's own MIT additions) together with the Owner's original
+   work are kept separable, to support legal review and limit the potential scope
+   of any such obligation. See the NOTICE file.
+
+   DEVELOPMENT SOURCES & ACKNOWLEDGMENTS
+   Developed based on the following, in addition to the domain expertise of the
+   Owner, Dr. Aladdin Ali, and the academic-writing sources in reference/sources.md:
+     • blader/humanizer — LICENSE (MIT, (c) 2025 Siqi Chen):
+       https://github.com/blader/humanizer/blob/main/LICENSE
+     • blader/humanizer — SKILL.md (patterns §§1–30 based on Wikipedia; §§31–33 Siqi Chen's own MIT additions):
+       https://github.com/blader/humanizer/blob/main/SKILL.md
+     • Wikipedia: Signs of AI writing:
+       https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
+     • Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0):
+       https://creativecommons.org/licenses/by-sa/4.0/
+   Use of these sources does not transfer ownership of the Owner's proprietary
+   contributions.
+
+5. TRADEMARKS
+   "Aladdin Academic Humanizer", "Aladdin Humanizer", and "Aladdin Pertanian
+   Internasional" are trademarks of the Owner. This license does not grant any
+   right to use these marks. (™ denotes a claimed unregistered mark; ® would
+   require formal registration, which is the Owner's separate legal step.)
+
+6. NO WARRANTY; NOT AN ACADEMIC AUTHORITY
+   THE SKILL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IT IS A
+   WRITING / EDITING AID THAT IMPROVES THE EXPRESSION OF TEXT THE AUTHOR HAS
+   ALREADY WRITTEN. IT DOES NOT GENERATE SCHOLARSHIP, DOES NOT DETERMINE WHETHER
+   A THESIS OR ARTICLE IS ACADEMICALLY VALID, AND IS NOT A DETECTION-EVASION TOOL.
+   PRIMARY RESEARCH RESPONSIBILITY REMAINS WITH THE AUTHOR; FINAL APPROVAL /
+   ACCEPTANCE AUTHORITY RESTS WITH THE SUPERVISOR, EXAMINATION COMMITTEE, JOURNAL
+   EDITOR, OR PEER-REVIEW BODY. THE OWNER IS NOT LIABLE FOR ACADEMIC OUTCOMES OR
+   DECISIONS MADE FROM TEXT IT EDITS. THE AUTHOR IS RESPONSIBLE FOR DISCLOSING AI
+   ASSISTANCE WHERE REQUIRED.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE OWNER
+   (DR. ALADDIN ALI / ALADDIN PERTANIAN INTERNASIONAL, AND ITS AFFILIATES,
+   CONTRIBUTORS, AND LICENSORS) BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+   CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS,
+   REVENUE, DATA, GOODWILL, ACADEMIC STANDING, PUBLICATION, REPUTATION, OR
+   OPPORTUNITY, ARISING OUT OF OR RELATING TO THE SKILL OR ITS USE OR INABILITY
+   TO USE, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR
+   OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+   THE OWNER'S TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SKILL
+   SHALL NOT EXCEED THE GREATER OF (a) THE TOTAL AMOUNT THE CLAIMANT PAID THE
+   OWNER FOR THE SKILL IN THE TWELVE (12) MONTHS PRECEDING THE EVENT GIVING RISE
+   TO THE CLAIM, OR (b) ONE HUNDRED US DOLLARS (USD 100). SOME JURISDICTIONS DO
+   NOT ALLOW CERTAIN OF THESE EXCLUSIONS OR LIMITATIONS; IN THOSE JURISDICTIONS
+   THE OWNER'S LIABILITY IS LIMITED TO THE SMALLEST EXTENT PERMITTED BY LAW.
+
+8. ACCEPTABLE USE & USER RESPONSIBILITY
+   The Skill supports responsible, disclosed, author-controlled scholarly editing.
+   Any person who uses the Skill (a "User") is solely responsible for:
+     (a) complying with the academic-integrity, authorship, and AI-disclosure
+         policies of their institution, supervisor, journal, publisher, funder,
+         and examination or peer-review body, and with all applicable laws;
+     (b) the accuracy, originality, and integrity of their own work; and
+     (c) reviewing and approving every edit before any use or submission.
+   The User shall NOT use the Skill to commit or facilitate plagiarism,
+   fabrication, falsification, ghost-writing, misrepresentation of authorship,
+   evasion of AI-detection or integrity review, or any other academic,
+   professional, or legal misconduct. The Skill is not a detection-evasion or
+   integrity-circumvention tool, and the Owner authorises no such use. Use in
+   violation of this Section is unlicensed and is the sole responsibility of the
+   User.
+
+9. INDEMNIFICATION
+   The User agrees to defend, indemnify, and hold harmless the Owner, Dr. Aladdin
+   Ali, Aladdin Pertanian Internasional, and their affiliates, from and against
+   any and all claims, liabilities, damages, losses, costs, and expenses
+   (including reasonable legal fees) arising out of or related to (a) the User's
+   use or misuse of the Skill, (b) the User's breach of this License or of
+   Section 8 (Acceptable Use), or (c) the User's violation of any law or any
+   third-party right.
+
+10. NO PROFESSIONAL OR LEGAL ADVICE
+    The Skill and its output are an editorial and language-improvement aid only.
+    They do not constitute legal, academic, scientific, medical, financial, or
+    other professional advice, and do not certify the validity, originality, or
+    compliance of any work. Nothing in the output is a substitute for the
+    judgment of the author, of a qualified professional, or of the relevant
+    academic authority.
+
+11. AI-GENERATED OUTPUT DISCLAIMER
+    The Skill operates by guiding a third-party AI language model; its output is
+    produced by that model and may contain errors, omissions, or inaccuracies.
+    The Owner does not warrant that the output will be accurate, complete, fit
+    for any particular purpose, free of errors, accepted by any institution or
+    journal, or "undetectable" by any tool. The User must independently verify
+    and review all output before relying on or submitting it. Use of the Skill
+    through any third-party platform (including Claude / Anthropic) is also
+    subject to that platform's own terms of service and usage policies.
+
+12. GOVERNING LAW; SEVERABILITY; ENTIRE AGREEMENT
+    This License is governed by and construed in accordance with the laws of
+    Malaysia, without regard to its conflict-of-laws rules, and the courts of
+    Malaysia shall have jurisdiction, except where the mandatory local law of the
+    User's place of residence requires otherwise. If any provision of this
+    License is held invalid or unenforceable, that provision shall be enforced to
+    the maximum extent permissible and the remaining provisions shall remain in
+    full force and effect. This License, together with the NOTICE file,
+    constitutes the entire agreement regarding the Skill and supersedes all prior
+    understandings; no waiver of any term is effective unless in writing signed by
+    the Owner. The third-party components identified in Section 4 remain governed
+    by their own licenses (the MIT License for HUM-01..33 by Siqi Chen; the
+    CC BY-SA 4.0 upstream credit for the base taxonomy), which this License does
+    not modify, limit, or extend.
+
+13. CONTACT
+    Dr. Aladdin Ali · Aladdin Pertanian Internasional · https://aladdin.my.id
+    dr.alaa@aladdin.my.id

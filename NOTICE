@@ -1,0 +1,106 @@
+Copyright (c) 2026 Dr. Aladdin Ali - Founder of Aladdin Pertanian Internasional - dr.alaa@aladdin.my.id. All Rights Reserved.
+
+ALADDIN ACADEMIC HUMANIZER — ACADEMIC VOICE & INTEGRITY LAYER (SKILL EDITION)
+NOTICE OF COPYRIGHT, TRADEMARKS, AND THIRD-PARTY ATTRIBUTION
+
+(Brought forward to P1 so the "attribution mirrors NOTICE exactly" gate is concretely
+verifiable in-package. LICENSE / README and the source manifest follow at P4.)
+
+────────────────────────────────────────────────────────────────────────
+COPYRIGHT
+────────────────────────────────────────────────────────────────────────
+© 2026 Dr. Aladdin Ali / Aladdin Pertanian Internasional. All rights reserved.
+Product: Aladdin Academic Humanizer — Academic Voice & Integrity Layer, Skill Edition v1.0.0-draft.
+Homepage: https://aladdin.my.id
+
+────────────────────────────────────────────────────────────────────────
+TRADEMARKS
+────────────────────────────────────────────────────────────────────────
+The following are trademarks of Dr. Aladdin Ali / Aladdin Pertanian
+Internasional. ™ denotes a claimed mark; it does not assert government
+registration (that is the Owner's separate legal step, after which ® may apply):
+
+  • Aladdin Academic Humanizer™
+  • Aladdin Humanizer™
+  • Aladdin Pertanian Internasional™
+
+(The academic direction uses NO personas; the agricultural persona marks
+Habiba / Anas / Namaa / Turjuman do not apply to this Skill.)
+
+────────────────────────────────────────────────────────────────────────
+OWNER'S ORIGINAL, PROPRIETARY WORK (NOT under any open-source license)
+────────────────────────────────────────────────────────────────────────
+  • Academic-integrity patterns ACA-01..ACA-10.
+  • The three-channel output model (Language-Improved Text · Scholarly Advisory
+    Report · Author-Approved Scholarly Revision) and the revision-log design.
+  • The Input Contract (context + consent) and the Channel-3 five conditions.
+  • The Academic Integrity Controls AIP-1..6 and the hard invariants INV-A1..A10.
+  • Register-elevation, level/programme_type calibration, and the academic lexicon.
+  • The ten-language coverage and per-language Language-QA design (phased; English in v1).
+  • The Skill orchestration, procedure, and governance.
+
+────────────────────────────────────────────────────────────────────────
+THIRD-PARTY COMPONENT — humanizer (MIT License)
+────────────────────────────────────────────────────────────────────────
+The base de-AI pattern set HUM-01..HUM-33 is derived from the open-source
+"humanizer" skill by Siqi Chen (https://github.com/blader/humanizer), version
+2.8.0, distributed under the MIT License. This covers the project's §§1–30 and
+its patterns 31–33 (manufactured punchlines, aphorism formulas, conversational
+rhetorical openers). The MIT License for the base patterns is reproduced below
+and continues to govern those base patterns:
+
+  MIT License
+
+  Copyright (c) 2025 Siqi Chen
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+
+────────────────────────────────────────────────────────────────────────
+UPSTREAM TAXONOMY SOURCE — Wikipedia "Signs of AI writing" (CC BY-SA 4.0)
+────────────────────────────────────────────────────────────────────────
+The taxonomy of AI-writing tells underlying the humanizer base patterns
+(HUM-01..30) originates in the Wikipedia article "Signs of AI
+writing", maintained by WikiProject AI Cleanup and licensed under the Creative
+Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):
+  • https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
+  • https://creativecommons.org/licenses/by-sa/4.0/
+This credit is given for completeness, since the upstream "humanizer" skill is
+itself based on that article. The humanizer project's own patterns HUM-31..33
+(manufactured punchlines, aphorism formulas, conversational rhetorical openers)
+are Siqi Chen's additions in the humanizer project (MIT) — they are NOT drawn
+from the Wikipedia article. No verbatim Wikipedia text is reproduced in this
+Skill: the pattern wording and every before→after example are the humanizer
+project's (MIT) or the Owner's own.
+
+LEGAL-OPEN (academic skill — differs from the agricultural NOTICE on this point):
+whether the academic patterns are uncopyrightable *ideas* (no share-alike) or
+*adapted material* (share-alike applies) is a legal question that is **not
+asserted here as fact**. Pending legal confirmation before release, the
+Wikipedia-derived base taxonomy (HUM-01..30) is kept clearly marked, while
+HUM-31..33 (Siqi Chen's own MIT additions, not from the article) and the Owner's
+original ACA-01..10 and governance are kept separable, to support legal review
+and limit the potential scope of any share-alike obligation (if it applies).
+
+────────────────────────────────────────────────────────────────────────
+RELATIONSHIP TO THE ALADDIN HUMANIZER WORDPRESS ADD-ON
+────────────────────────────────────────────────────────────────────────
+This Skill is the academic vertical of the Aladdin Humanizer add-on. It reuses
+the shared de-AI core (HUM-01..33) and the "credible human expert voice" goal,
+and swaps the agricultural-safety patterns for academic-integrity controls
+(ACA-01..10) under a three-channel, author-controlled model. Both are © the Owner.
